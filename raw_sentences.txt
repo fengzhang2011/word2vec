@@ -1,0 +1,16 @@
+scope type identifier array
+scope type identifier array
+ 
+type identifier equal number
+
+loop type identifier equal zero comma identifier operator number comma identifier operator
+identifier operator identifier array
+
+type identifier equal identifier operator number
+ 
+type identifier equal number
+
+loop type identifier equal zero comma identifier operator number comma identifier operator
+identifier operator identifier array
+
+type identifier equal identifier operator number
